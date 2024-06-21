@@ -1,0 +1,5 @@
+*.json
+*.geojson
+.venv/
+*.csv
+.ipynb_checkpoints/
